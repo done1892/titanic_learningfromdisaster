@@ -1,3 +1,4 @@
 # titanic_learningfromdisaster
 A machine learning flow performed in python
-i expose my code reguarding forecasting of survivals 
+Here you can find my code reguarding forecasting of survivals
+I admit this is my second machine learning workflow in python, so i accept tips :)
